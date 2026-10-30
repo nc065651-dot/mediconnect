@@ -1,0 +1,6 @@
+{
+  "name": "MediConnect",
+  "description": "Smart Healthcare & Medical Records Portal with integrated hospital management, patient portal, doctor dashboard, and DRiefcase-style health record repository.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
